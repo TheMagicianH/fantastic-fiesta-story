@@ -8,4 +8,11 @@ there is another town named Madison too which have the exactly different situati
 People in the other "Madison" don't have power and they don't need to take CS400.
 However, they are extremely unhappy with their current life: they want to go to 
 our Madison. One day, people from the other Madison come to this Madison, and the
-balance of the world has been corrupted.    
+balance of the world has been corrupted.  
+
+First, a strange thing happened: one of the guys enrolled in CS400 mysteriously disappeared. All we know
+is that his name is Seen, but he was never seen again. Since the balance of Madison is corrupted, boys
+became girls, and turtles turned into T-rex. The scariest of all such transformations is that the tree 
+of life - The Holy AVL Tree - became unbalanced! One of its child nodes now has a balance factor of
+16. Madisonians scrambled to try to restore balance, but they're not fast enough. Everything they do now
+takes O(N) time. And, as such, Madison, along with Placious World, has been garbage collected. 
