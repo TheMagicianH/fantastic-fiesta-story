@@ -16,3 +16,12 @@ became girls, and turtles turned into T-rex. The scariest of all such transforma
 of life - The Holy AVL Tree - became unbalanced! One of its child nodes now has a balance factor of
 16. Madisonians scrambled to try to restore balance, but they're not fast enough. Everything they do now
 takes O(N) time. And, as such, Madison, along with Placious World, has been garbage collected. 
+
+To fix the order of the world, the student first decide to create a powerful weapon that kick everyone out 
+of the town--COVID-19. This is a kind of secret weapon that the UW_Madison students developed to save the 
+town if it is out of order. By launching the COVID-19, the weird creatures in this town are exiled. Then the 
+smartest students start to fix the mass by using - The Holy RedBlack Tree-. This tree will change the color
+of its children. The girls turn back to boys and the T-rex turns back to turtles. The world is also ordered
+by the Holy RBT and every thing people do in this town only takes O(logN). Madsion restores its peace by worship
+a more powerfull tree. The next time the world is messed up, the Madison students will stand out and fix the
+world by inventing a new tree.
